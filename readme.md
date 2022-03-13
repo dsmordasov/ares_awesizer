@@ -1,5 +1,7 @@
 # ares_awesizer
 
+A Python scientific computing tool for design, sizing and optimisation of a pumping power kite system.
+
 ### About the project
 Who would ever think of extracting 'green energy' on the 'Red Planet'? Well, our DSE Group 23 (graduated 2020) did! 
 
@@ -21,7 +23,7 @@ In place of a personal BSc thesis, TU Delft has students enter 10-member teams a
 <img src="thesis_material/awe_flow_diagram.png" alt="Code flow diagram">
 
 ### Credit, references:
-Much of the code was pair-coded by me and Daan Witte as the navigator. I was responsible for the main kite operation model based on Luchsinger [[1]](#1), Daan coded the tether sizing model from Bosman et al. [[2]](#2). Siri Heidweiller helped in these efforts. Fernando Corte Vargas and Bart Klootwijk later on produced a code that included the ground station (motor and generator) model by Fechner and Schmehl [[3]](#3). It was my task to coordinate these efforts on the kite's subsystems, and in the end to consolidate the code into a single sizing tool for the system. Verified, and 'validated' against a similar model of Vlugt et al. [[4]](#4), coded by Mark Schelbergen for his own use. Credit also goes to Lora Ouromova, Esmée Terwindt, Francesca van Marion, Márton Géczi and Marcel Kempers, who have also contributed to the project and their respective subsystems and thus affected the final design. 
+Much of the code was pair-coded by me and Daan Witte as the navigator. I was responsible for the main kite operation model based on Luchsinger [[1]](#1), Daan coded the tether sizing model from Bosman et al. [[2]](#2). Siri Heidweiller helped in these efforts. Fernando Corte Vargas and Bart Klootwijk later on produced a code that included the ground station (motor and generator) model by Fechner and Schmehl [[3]](#3). It was my task to coordinate these efforts on the kite's subsystems, and in the end to consolidate the code into a single sizing tool for the system. Verified, and 'validated' against a similar model of Vlugt et al. [[4]](#4), coded by Mark Schelbergen [[5]](#5). Credit also goes to Lora Ouromova, Esmée Terwindt, Francesca van Marion, Márton Géczi and Marcel Kempers, who have also contributed to the project and their respective subsystems and thus affected the final design. 
 
 Our thanks also goes to our supervisors Roland Schmehl, Dominic von Terzi, Botchu Jyoti and Camila Brito.
 
@@ -38,3 +40,6 @@ U. Fechner and R. Schmehl. Modelbased efficiency analysis of wind power conversi
 <a id="4">[4]</a>
 R. van der Vlugt, A. Bley, R. Schmehl, and M. Noom. Quasisteady model of a pumping kite power
 system. Renewable Energy, 131:83–99, 2 2019. doi: 10.1016/j.renene.2018.07.023.
+
+<a id="5">[5]</a>
+M. Schelbergen and R. Schmehl. Validation of the quasi-steady performance model for pumping airborne wind energy systems, Journal of Physics: Conference Series 1618-3, 2020. doi: 10.1088/1742-6596/1618/3/032003.
