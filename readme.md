@@ -20,6 +20,9 @@ In place of a personal BSc thesis, TU Delft has students enter 10-member teams a
 [Popular Mechanics: Kite-Flying Robots Could Generate Energy on Mars](https://lnkd.in/dUAM6Qx)
 
 ### Code flow diagram:
+
+I had zero experience with the airborne wind energy (AWE) systems before the start of the thesis, and had to put in extra time researching AWE over my weekends as the chief of it - I completely understand why the code flow diagram would be gibberish to anyone who has not marinated themselves full-time in AWE system design for 3 months, the main reason for this being here is to basically flex how much effort was put into programming and consolidating the damn thing.
+
 <img src="thesis_material/awe_flow_diagram.png" alt="Code flow diagram">
 
 ### Credit, references:
