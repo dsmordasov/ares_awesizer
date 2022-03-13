@@ -1,9 +1,9 @@
-A Python scientific computing tool for design, sizing and optimisation of a pumping power kite system based on [[1-5]](#1), made for the purposes of my BSc thesis.
+A Python scientific computing tool for design, sizing and optimisation of a pumping power kite system based on [[1-3]](#1), made for the purposes of my BSc thesis.
 
 ### About the project
 Who would ever think of extracting 'green energy' on the 'Red Planet'? Well, our DSE Group 23 (graduated 2020) did! 
 
-In place of a personal BSc thesis, TU Delft has students enter 10-member teams and work full-time on a Design Synthesis Exercise. Our challenge was to build a renewable energy system for a ['Rhizome' Mars habitat](http://www.roboticbuilding.eu/project/rhizome-development-of-an-autarkic-design-to-robotic-production-and-operation-system-for-building-off-earth-habitats/), under development for an ESA competition. The system's requirements were very stringent on the overall system mass, and over 50% of the energy made must have been from wind. I was responsible for the design and systems engineering of the airborne wind energy (AWE) pumping power kite system, which was the main focus of the project. A part of this was responsibility was producing a Python software tool based on published physical models for the sizing and optimisation of the power kite [[1-5]](#1) with respect to the overall system. 
+In place of a personal BSc thesis, TU Delft has students enter 10-member teams and work full-time on a Design Synthesis Exercise. Our challenge was to build a renewable energy system for a ['Rhizome' Mars habitat](http://www.roboticbuilding.eu/project/rhizome-development-of-an-autarkic-design-to-robotic-production-and-operation-system-for-building-off-earth-habitats/), under development for an ESA competition. The system's requirements were very stringent on the overall system mass, and over 50% of the energy made must have been from wind. I was responsible for the design and systems engineering of the airborne wind energy (AWE) pumping power kite system, which was the main focus of the project. A part of this was responsibility was producing a Python software tool based on published physical models for the sizing and optimisation of the power kite [[1-3]](#1) with respect to the overall system. 
 
 (ARES = Arcadian Renewable Energy System)
 
