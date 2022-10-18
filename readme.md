@@ -1,4 +1,4 @@
-A Python scientific computing tool for design, AEP calculation and optimisation of a pumping power kite system based on [[1-3]](#1), made for the purposes of my BSc thesis. Published in scientific literature!
+A Python scientific computing tool for design, annual energy production (AEP) calculation and optimisation of a pumping power kite system based on a combination of existing physical models in literature [[1-3]](#1), made for the purposes of my BSc thesis. It got published!
 
 ### About the project
 Who would ever think of extracting 'green energy' on the 'Red Planet'? Well, our DSE Group 23 (graduated 2020) did! 
